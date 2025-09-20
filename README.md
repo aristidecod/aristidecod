@@ -38,14 +38,3 @@ Voici quelques-uns de mes projets (d'autres orientés sécurité offensive/défe
 > Commandes interprétées depuis des fichiers YAML.
 
 Je travaille actuellement sur d'autres projets que je présenterai bientôt (scanner de ports, outils de détection d’injections SQL)
-
----
-
-## Me contacter
-
-- [LinkedIn](https://linkedin.com/in/aristidecod)  
-- aristidecod@gmail.com  
-
----
-
-> *"La cybersécurité n’est pas qu’une passion, c’est une responsabilité."*
