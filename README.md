@@ -1,4 +1,3 @@
-# Salut, moi c’est **Aristide OUATTARA**
 
  Étudiant en **Master Cybersécurité**  
  Passionné par l’analyse de vulnérabilités, le reverse engineering et la sécurité offensive  
