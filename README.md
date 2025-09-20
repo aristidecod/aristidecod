@@ -44,7 +44,7 @@ Je travaille actuellement sur d'autres projets que je présenterai bientôt (sca
 ## Me contacter
 
 - [LinkedIn](https://linkedin.com/in/aristidecod)  
-- Email : aristidecod@gmail.com  
+- aristidecod@gmail.com  
 
 ---
 
