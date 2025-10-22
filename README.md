@@ -1,13 +1,13 @@
 
  Étudiant en **Master Cybersécurité**  
- Passionné par l’analyse de vulnérabilités, le reverse engineering et la sécurité offensive  
+ Passionné par l’analyse de vulnérabilités et la sécurité offensive  
  Curieux, rigoureux et toujours motivé pour apprendre de nouveaux outils, techniques et méthodologies  
 
 ---
 
 ## Compétences techniques
 
-- **Cybersécurité** : Analyse de vulnérabilités Web, CTF, Reverse Engineering, Hardening, SIEM  
+- **Cybersécurité** : Analyse de vulnérabilités Web, CTF, Hardening, SIEM  
 - **Langages** : Python, Bash, Java, HTML/CSS  
 - **Outils** : Wireshark, Nmap, Metasploit, Docker  
 - **Systèmes** : Linux (Debian, Kali)
